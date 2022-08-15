@@ -1,2 +1,2 @@
-# Inicio_DS
-Iniciando meus primeiros testes/analises de dados em python
+# Inicio_dos_códigos: (seguindo a trilha da comunidade DS: Do 0 ao DS)
+  Meus primeiros códigos usados para fazer a extração de informações de uma base de dados.
